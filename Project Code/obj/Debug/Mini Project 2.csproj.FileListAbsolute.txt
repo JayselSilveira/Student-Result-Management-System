@@ -1,0 +1,209 @@
+C:\Users\Enid\source\repos\Mini Project 2\obj\Debug\Mini Project 2.csproj.AssemblyReference.cache
+C:\Users\Enid\source\repos\Mini Project 2\obj\Debug\Mini_Project_2.Properties.Resources.resources
+C:\Users\Enid\source\repos\Mini Project 2\obj\Debug\Mini Project 2.csproj.GenerateResource.cache
+C:\Users\Enid\source\repos\Mini Project 2\obj\Debug\Mini Project 2.csproj.CoreCompileInputs.cache
+C:\Users\Enid\source\repos\Mini Project 2\obj\Debug\Mini_Project_2.Formlogin.resources
+C:\Users\Enid\source\repos\Mini Project 2\obj\Debug\Mini_Project_2.FormReset.resources
+C:\Users\Enid\source\repos\Mini Project 2\bin\Debug\Mini Project 2.exe
+C:\Users\Enid\source\repos\Mini Project 2\bin\Debug\Mini Project 2.pdb
+C:\Users\Enid\source\repos\Mini Project 2\obj\Debug\Mini Project 2.exe
+C:\Users\Enid\source\repos\Mini Project 2\obj\Debug\Mini Project 2.pdb
+C:\Users\HP\Downloads\Mini Project 2\obj\Debug\Mini Project 2.exe
+C:\Users\HP\Downloads\Mini Project 2\obj\Debug\Mini Project 2.pdb
+C:\Users\HP\Downloads\Mini Project 2\bin\Debug\Mini Project 2.exe
+C:\Users\HP\Downloads\Mini Project 2\bin\Debug\Mini Project 2.pdb
+C:\Users\HP\Downloads\Mini Project 2\obj\Debug\Mini_Project_2.Formlogin.resources
+C:\Users\HP\Downloads\Mini Project 2\obj\Debug\Mini_Project_2.FormReset.resources
+C:\Users\HP\Downloads\Mini Project 2\obj\Debug\Mini_Project_2.Properties.Resources.resources
+C:\Users\HP\Downloads\Mini Project 2\obj\Debug\Mini Project 2.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\VisualStudio_Programs\Mini Project 2\obj\Debug\Mini Project 2.exe
+C:\Users\HP\Desktop\VisualStudio_Programs\Mini Project 2\obj\Debug\Mini Project 2.pdb
+C:\Users\DRUVI TENDULKAR\Desktop\Mini Project 2\obj\Debug\Mini Project 2.exe
+C:\Users\DRUVI TENDULKAR\Desktop\Mini Project 2\obj\Debug\Mini Project 2.pdb
+C:\Users\DRUVI TENDULKAR\Desktop\Mini Project 2\bin\Debug\Mini Project 2.exe
+C:\Users\DRUVI TENDULKAR\Desktop\Mini Project 2\bin\Debug\Mini Project 2.pdb
+C:\Users\DRUVI TENDULKAR\Desktop\Mini Project 2\obj\Debug\Mini_Project_2.FormDashboard.resources
+C:\Users\DRUVI TENDULKAR\Desktop\Mini Project 2\obj\Debug\Mini_Project_2.Formlogin.resources
+C:\Users\DRUVI TENDULKAR\Desktop\Mini Project 2\obj\Debug\Mini_Project_2.Formloginteacher.resources
+C:\Users\DRUVI TENDULKAR\Desktop\Mini Project 2\obj\Debug\Mini_Project_2.main.resources
+C:\Users\DRUVI TENDULKAR\Desktop\Mini Project 2\obj\Debug\Mini_Project_2.FormReset.resources
+C:\Users\DRUVI TENDULKAR\Desktop\Mini Project 2\obj\Debug\Mini_Project_2.FormTeacherDashboard.resources
+C:\Users\DRUVI TENDULKAR\Desktop\Mini Project 2\obj\Debug\Mini_Project_2.FormTeacherReset.resources
+C:\Users\DRUVI TENDULKAR\Desktop\Mini Project 2\obj\Debug\Mini_Project_2.FormUserpage.resources
+C:\Users\DRUVI TENDULKAR\Desktop\Mini Project 2\obj\Debug\Mini_Project_2.Properties.Resources.resources
+C:\Users\DRUVI TENDULKAR\Desktop\Mini Project 2\obj\Debug\Mini Project 2.csproj.GenerateResource.Cache
+C:\Users\DRUVI TENDULKAR\Desktop\Mini Project 2\obj\Debug\Mini Project 2.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Druvi_Project2\Mini Project 2\obj\Debug\Mini Project 2.exe
+C:\Users\HP\Desktop\Druvi_Project2\Mini Project 2\obj\Debug\Mini Project 2.pdb
+C:\Users\HP\Desktop\Druvi_Project2\Mini Project 2\bin\Debug\Mini Project 2.exe
+C:\Users\HP\Desktop\Druvi_Project2\Mini Project 2\bin\Debug\Mini Project 2.pdb
+C:\Users\HP\Desktop\Druvi_Project2\Mini Project 2\obj\Debug\Mini Project 2.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Druvi_Project2\Mini Project 2\obj\Debug\Mini_Project_2.FormAmey.resources
+C:\Users\HP\Desktop\Druvi_Project2\Mini Project 2\obj\Debug\Mini_Project_2.FormAmrita.resources
+C:\Users\HP\Desktop\Druvi_Project2\Mini Project 2\obj\Debug\Mini_Project_2.FormAnkit.resources
+C:\Users\HP\Desktop\Druvi_Project2\Mini Project 2\obj\Debug\Mini_Project_2.FormJanhavi.resources
+C:\Users\HP\Desktop\Druvi_Project2\Mini Project 2\obj\Debug\Mini_Project_2.Formloginteacher.resources
+C:\Users\HP\Desktop\Druvi_Project2\Mini Project 2\obj\Debug\Mini_Project_2.main.resources
+C:\Users\HP\Desktop\Druvi_Project2\Mini Project 2\obj\Debug\Mini_Project_2.FormTeacherDashboard.resources
+C:\Users\HP\Desktop\Druvi_Project2\Mini Project 2\obj\Debug\Mini_Project_2.FormTeacherReset.resources
+C:\Users\HP\Desktop\Druvi_Project2\Mini Project 2\obj\Debug\Mini_Project_2.FormUlpa.resources
+C:\Users\HP\Desktop\Druvi_Project2\Mini Project 2\obj\Debug\Mini_Project_2.FormUserpage.resources
+C:\Users\HP\Desktop\Druvi_Project2\Mini Project 2\obj\Debug\Mini_Project_2.FormVivek.resources
+C:\Users\HP\Desktop\Druvi_Project2\Mini Project 2\obj\Debug\Mini_Project_2.Properties.Resources.resources
+C:\Users\HP\Desktop\Druvi_Project2\Mini Project 2\obj\Debug\Mini Project 2.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\Druvi_Project2\Mini Project 2\obj\Debug\Mini Project 2.csproj.ResolveComReference.cache
+C:\Users\HP\Desktop\Druvi_Project2\Mini Project 2\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\HP\Desktop\Druvi_Project2\Mini Project 2\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\HP\Desktop\Druvi_Project2\Mini Project 2\obj\Debug\Mini_Project_2.FormChooseSubject.resources
+C:\Users\HP\Desktop\Druvi_Project2\Mini Project 2\obj\Debug\Mini_Project_2.FormCalcTotalPercentage.resources
+C:\Users\HP\Desktop\Druvi_Project2\Mini Project 2\obj\Debug\Mini_Project_2.FormStudentDashboard.resources
+C:\Users\HP\Desktop\Druvi_Project2\Mini Project 2\obj\Debug\Mini_Project_2.FormLoginStudent.resources
+C:\Users\HP\Desktop\Druvi_Project2\Mini Project 2\obj\Debug\Mini_Project_2.FormStudentReset.resources
+C:\Users\HP\Desktop\Druvi_Project2\Mini Project 2\obj\Debug\Mini_Project_2.FormEnterMarksDM.resources
+C:\Users\HP\Desktop\Druvi_Project2\Mini Project 2\obj\Debug\Mini_Project_2.FormEnterMarksECO.resources
+C:\Users\HP\Desktop\Druvi_Project2\Mini Project 2\obj\Debug\Mini_Project_2.FormEnterMarksFLAT.resources
+C:\Users\HP\Desktop\Druvi_Project2\Mini Project 2\obj\Debug\Mini_Project_2.FormEnterMarksMADF.resources
+C:\Users\HP\Desktop\Druvi_Project2\Mini Project 2\obj\Debug\Mini_Project_2.FormEnterMarksMPMC.resources
+C:\Users\HP\Desktop\Druvi_Project2\Mini Project 2\obj\Debug\Mini_Project_2.FormEnterMarksOOSE.resources
+C:\Users\DRUVI TENDULKAR\Desktop\Mini Project 2.old\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\DRUVI TENDULKAR\Desktop\Mini Project 2.old\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\DRUVI TENDULKAR\Desktop\Mini Project 2.old\obj\Debug\Mini Project 2.csproj.ResolveComReference.cache
+C:\Users\DRUVI TENDULKAR\Desktop\Mini Project 2.old\obj\Debug\Mini Project 2.exe
+C:\Users\DRUVI TENDULKAR\Desktop\Mini Project 2.old\obj\Debug\Mini Project 2.pdb
+C:\Users\DRUVI TENDULKAR\Desktop\Mini Project 2\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\DRUVI TENDULKAR\Desktop\Mini Project 2\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\DRUVI TENDULKAR\Desktop\Mini Project 2\obj\Debug\Mini Project 2.csproj.ResolveComReference.cache
+C:\Users\HP\Desktop\New_mini_project_2\Mini Project 2\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\HP\Desktop\New_mini_project_2\Mini Project 2\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\HP\Desktop\New_mini_project_2\Mini Project 2\obj\Debug\Mini Project 2.csproj.ResolveComReference.cache
+C:\Users\HP\Desktop\New_mini_project_2\Mini Project 2\obj\Debug\Mini Project 2.exe
+C:\Users\HP\Desktop\New_mini_project_2\Mini Project 2\obj\Debug\Mini Project 2.pdb
+C:\Users\HP\Desktop\New_mini_project_2\Mini Project 2\obj\Debug\Mini Project 2.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\New_mini_project_2\Mini Project 2\obj\Debug\Mini_Project_2.FormAmey.resources
+C:\Users\HP\Desktop\New_mini_project_2\Mini Project 2\obj\Debug\Mini_Project_2.FormAmrita.resources
+C:\Users\HP\Desktop\New_mini_project_2\Mini Project 2\obj\Debug\Mini_Project_2.FormAnkit.resources
+C:\Users\HP\Desktop\New_mini_project_2\Mini Project 2\obj\Debug\Mini_Project_2.FormCalcTotalPercentage.resources
+C:\Users\HP\Desktop\New_mini_project_2\Mini Project 2\obj\Debug\Mini_Project_2.FormChooseSubject.resources
+C:\Users\HP\Desktop\New_mini_project_2\Mini Project 2\obj\Debug\Mini_Project_2.FormStudentDashboard.resources
+C:\Users\HP\Desktop\New_mini_project_2\Mini Project 2\obj\Debug\Mini_Project_2.FormJanhavi.resources
+C:\Users\HP\Desktop\New_mini_project_2\Mini Project 2\obj\Debug\Mini_Project_2.FormLoginStudent.resources
+C:\Users\HP\Desktop\New_mini_project_2\Mini Project 2\obj\Debug\Mini_Project_2.FormLoginTeacher.resources
+C:\Users\HP\Desktop\New_mini_project_2\Mini Project 2\obj\Debug\Mini_Project_2.main.resources
+C:\Users\HP\Desktop\New_mini_project_2\Mini Project 2\obj\Debug\Mini_Project_2.FormStudentReset.resources
+C:\Users\HP\Desktop\New_mini_project_2\Mini Project 2\obj\Debug\Mini_Project_2.FormTeacherDashboard.resources
+C:\Users\HP\Desktop\New_mini_project_2\Mini Project 2\obj\Debug\Mini_Project_2.FormTeacherReset.resources
+C:\Users\HP\Desktop\New_mini_project_2\Mini Project 2\obj\Debug\Mini_Project_2.FormUlpa.resources
+C:\Users\HP\Desktop\New_mini_project_2\Mini Project 2\obj\Debug\Mini_Project_2.FormEnterMarksDM.resources
+C:\Users\HP\Desktop\New_mini_project_2\Mini Project 2\obj\Debug\Mini_Project_2.FormEnterMarksECO.resources
+C:\Users\HP\Desktop\New_mini_project_2\Mini Project 2\obj\Debug\Mini_Project_2.FormEnterMarksFLAT.resources
+C:\Users\HP\Desktop\New_mini_project_2\Mini Project 2\obj\Debug\Mini_Project_2.FormEnterMarksMADF.resources
+C:\Users\HP\Desktop\New_mini_project_2\Mini Project 2\obj\Debug\Mini_Project_2.FormEnterMarksMPMC.resources
+C:\Users\HP\Desktop\New_mini_project_2\Mini Project 2\obj\Debug\Mini_Project_2.FormEnterMarksOOSE.resources
+C:\Users\HP\Desktop\New_mini_project_2\Mini Project 2\obj\Debug\Mini_Project_2.FormUserpage.resources
+C:\Users\HP\Desktop\New_mini_project_2\Mini Project 2\obj\Debug\Mini_Project_2.FormVivek.resources
+C:\Users\HP\Desktop\New_mini_project_2\Mini Project 2\obj\Debug\Mini_Project_2.Properties.Resources.resources
+C:\Users\HP\Desktop\New_mini_project_2\Mini Project 2\obj\Debug\Mini Project 2.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\New_mini_project_2\Mini Project 2\bin\Debug\Mini Project 2.exe
+C:\Users\HP\Desktop\New_mini_project_2\Mini Project 2\bin\Debug\Mini Project 2.pdb
+C:\Users\HP\Desktop\New_mini_project_2\Mini Project 2\obj\Debug\Mini_Project_2.FormProgressReport.resources
+C:\Users\HP\Desktop\New_mini_project_2\Mini Project 2\obj\Debug\Mini_Project_2.FormScorecard.resources
+C:\Users\HP\Desktop\New_mini_project_2\Mini Project 2\obj\Debug\Mini_Project_2.FormStart.resources
+C:\Users\HP\Desktop\New_mini_project_2\Mini Project 2\obj\Debug\Mini_Project_2.FormBooks.resources
+C:\Users\HP\Desktop\New_mini_project_2\Mini Project 2\obj\Debug\Mini_Project_2.FormBookECO.resources
+C:\Users\HP\Desktop\New_mini_project_2\Mini Project 2\obj\Debug\Mini_Project_2.FormBookFLAT.resources
+C:\Users\HP\Desktop\New_mini_project_2\Mini Project 2\obj\Debug\Mini_Project_2.FormBookMADF.resources
+C:\Users\HP\Desktop\New_mini_project_2\Mini Project 2\obj\Debug\Mini_Project_2.FormBookDM.resources
+C:\Users\HP\Desktop\New_mini_project_2\Mini Project 2\obj\Debug\Mini_Project_2.FormBookMPMC.resources
+C:\Users\HP\Desktop\New_mini_project_2\Mini Project 2\obj\Debug\Mini_Project_2.FormBookOOSE.resources
+C:\Users\HP\Desktop\New_mini_project_2\Mini Project 2\obj\Debug\Mini_Project_2.FormUploadResults.resources
+C:\Users\HP\Desktop\New_mini_project_2\Mini Project 2\obj\Debug\Mini_Project_2.FormStudentEmailVerification.resources
+C:\Users\HP\Desktop\New_mini_project_2\Mini Project 2\obj\Debug\Mini_Project_2.FormTeacherEmailVerification.resources
+C:\Users\HP\Desktop\Mini Project 2\Mini Project 2\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\HP\Desktop\Mini Project 2\Mini Project 2\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\HP\Desktop\Mini Project 2\Mini Project 2\obj\Debug\Mini Project 2.csproj.ResolveComReference.cache
+C:\Users\HP\Desktop\Mini Project 2\Mini Project 2\obj\Debug\Mini Project 2.exe
+C:\Users\HP\Desktop\Mini Project 2\Mini Project 2\obj\Debug\Mini Project 2.pdb
+C:\Users\HP\Desktop\Mini Project 2\Mini Project 2\bin\Debug\Mini Project 2.exe
+C:\Users\HP\Desktop\Mini Project 2\Mini Project 2\bin\Debug\Mini Project 2.pdb
+C:\Users\HP\Desktop\Mini Project 2\Mini Project 2\obj\Debug\Mini Project 2.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Mini Project 2\Mini Project 2\obj\Debug\Mini_Project_2.FormAmey.resources
+C:\Users\HP\Desktop\Mini Project 2\Mini Project 2\obj\Debug\Mini_Project_2.FormAmrita.resources
+C:\Users\HP\Desktop\Mini Project 2\Mini Project 2\obj\Debug\Mini_Project_2.FormAnkit.resources
+C:\Users\HP\Desktop\Mini Project 2\Mini Project 2\obj\Debug\Mini_Project_2.FormBooks.resources
+C:\Users\HP\Desktop\Mini Project 2\Mini Project 2\obj\Debug\Mini_Project_2.FormCalcTotalPercentage.resources
+C:\Users\HP\Desktop\Mini Project 2\Mini Project 2\obj\Debug\Mini_Project_2.FormChooseSubject.resources
+C:\Users\HP\Desktop\Mini Project 2\Mini Project 2\obj\Debug\Mini_Project_2.FormBookECO.resources
+C:\Users\HP\Desktop\Mini Project 2\Mini Project 2\obj\Debug\Mini_Project_2.FormStudentEmailVerification.resources
+C:\Users\HP\Desktop\Mini Project 2\Mini Project 2\obj\Debug\Mini_Project_2.FormBookFLAT.resources
+C:\Users\HP\Desktop\Mini Project 2\Mini Project 2\obj\Debug\Mini_Project_2.FormBookMADF.resources
+C:\Users\HP\Desktop\Mini Project 2\Mini Project 2\obj\Debug\Mini_Project_2.FormBookDM.resources
+C:\Users\HP\Desktop\Mini Project 2\Mini Project 2\obj\Debug\Mini_Project_2.FormBookMPMC.resources
+C:\Users\HP\Desktop\Mini Project 2\Mini Project 2\obj\Debug\Mini_Project_2.FormBookOOSE.resources
+C:\Users\HP\Desktop\Mini Project 2\Mini Project 2\obj\Debug\Mini_Project_2.FormProgressReport.resources
+C:\Users\HP\Desktop\Mini Project 2\Mini Project 2\obj\Debug\Mini_Project_2.FormStart.resources
+C:\Users\HP\Desktop\Mini Project 2\Mini Project 2\obj\Debug\Mini_Project_2.FormStudentDashboard.resources
+C:\Users\HP\Desktop\Mini Project 2\Mini Project 2\obj\Debug\Mini_Project_2.FormJanhavi.resources
+C:\Users\HP\Desktop\Mini Project 2\Mini Project 2\obj\Debug\Mini_Project_2.FormLoginStudent.resources
+C:\Users\HP\Desktop\Mini Project 2\Mini Project 2\obj\Debug\Mini_Project_2.FormLoginTeacher.resources
+C:\Users\HP\Desktop\Mini Project 2\Mini Project 2\obj\Debug\Mini_Project_2.main.resources
+C:\Users\HP\Desktop\Mini Project 2\Mini Project 2\obj\Debug\Mini_Project_2.FormStudentReset.resources
+C:\Users\HP\Desktop\Mini Project 2\Mini Project 2\obj\Debug\Mini_Project_2.FormScorecard.resources
+C:\Users\HP\Desktop\Mini Project 2\Mini Project 2\obj\Debug\Mini_Project_2.FormTeacherDashboard.resources
+C:\Users\HP\Desktop\Mini Project 2\Mini Project 2\obj\Debug\Mini_Project_2.FormTeacherEmailVerification.resources
+C:\Users\HP\Desktop\Mini Project 2\Mini Project 2\obj\Debug\Mini_Project_2.FormTeacherReset.resources
+C:\Users\HP\Desktop\Mini Project 2\Mini Project 2\obj\Debug\Mini_Project_2.FormUlpa.resources
+C:\Users\HP\Desktop\Mini Project 2\Mini Project 2\obj\Debug\Mini_Project_2.FormEnterMarksDM.resources
+C:\Users\HP\Desktop\Mini Project 2\Mini Project 2\obj\Debug\Mini_Project_2.FormEnterMarksECO.resources
+C:\Users\HP\Desktop\Mini Project 2\Mini Project 2\obj\Debug\Mini_Project_2.FormEnterMarksFLAT.resources
+C:\Users\HP\Desktop\Mini Project 2\Mini Project 2\obj\Debug\Mini_Project_2.FormEnterMarksMADF.resources
+C:\Users\HP\Desktop\Mini Project 2\Mini Project 2\obj\Debug\Mini_Project_2.FormEnterMarksMPMC.resources
+C:\Users\HP\Desktop\Mini Project 2\Mini Project 2\obj\Debug\Mini_Project_2.FormEnterMarksOOSE.resources
+C:\Users\HP\Desktop\Mini Project 2\Mini Project 2\obj\Debug\Mini_Project_2.FormUploadResults.resources
+C:\Users\HP\Desktop\Mini Project 2\Mini Project 2\obj\Debug\Mini_Project_2.FormUserpage.resources
+C:\Users\HP\Desktop\Mini Project 2\Mini Project 2\obj\Debug\Mini_Project_2.FormVivek.resources
+C:\Users\HP\Desktop\Mini Project 2\Mini Project 2\obj\Debug\Mini_Project_2.Properties.Resources.resources
+C:\Users\HP\Desktop\Mini Project 2\Mini Project 2\obj\Debug\Mini Project 2.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\Mini Project 2\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\HP\Desktop\Mini Project 2\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\HP\Desktop\Mini Project 2\obj\Debug\Mini Project 2.csproj.ResolveComReference.cache
+C:\Users\HP\Desktop\Mini Project 2\obj\Debug\Mini Project 2.exe
+C:\Users\HP\Desktop\Mini Project 2\obj\Debug\Mini Project 2.pdb
+C:\Users\HP\Desktop\Mini Project 2\bin\Debug\Mini Project 2.exe
+C:\Users\HP\Desktop\Mini Project 2\bin\Debug\Mini Project 2.pdb
+C:\Users\HP\Desktop\Mini Project 2\obj\Debug\Mini Project 2.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Mini Project 2\obj\Debug\Mini_Project_2.FormAmey.resources
+C:\Users\HP\Desktop\Mini Project 2\obj\Debug\Mini_Project_2.FormAmrita.resources
+C:\Users\HP\Desktop\Mini Project 2\obj\Debug\Mini_Project_2.FormAnkit.resources
+C:\Users\HP\Desktop\Mini Project 2\obj\Debug\Mini_Project_2.FormBooks.resources
+C:\Users\HP\Desktop\Mini Project 2\obj\Debug\Mini_Project_2.FormCalcTotalPercentage.resources
+C:\Users\HP\Desktop\Mini Project 2\obj\Debug\Mini_Project_2.FormBookECO.resources
+C:\Users\HP\Desktop\Mini Project 2\obj\Debug\Mini_Project_2.FormBookFLAT.resources
+C:\Users\HP\Desktop\Mini Project 2\obj\Debug\Mini_Project_2.FormBookMADF.resources
+C:\Users\HP\Desktop\Mini Project 2\obj\Debug\Mini_Project_2.FormBookDM.resources
+C:\Users\HP\Desktop\Mini Project 2\obj\Debug\Mini_Project_2.FormBookMPMC.resources
+C:\Users\HP\Desktop\Mini Project 2\obj\Debug\Mini_Project_2.FormBookOOSE.resources
+C:\Users\HP\Desktop\Mini Project 2\obj\Debug\Mini_Project_2.FormProgressReport.resources
+C:\Users\HP\Desktop\Mini Project 2\obj\Debug\Mini_Project_2.FormStart.resources
+C:\Users\HP\Desktop\Mini Project 2\obj\Debug\Mini_Project_2.FormStudentDashboard.resources
+C:\Users\HP\Desktop\Mini Project 2\obj\Debug\Mini_Project_2.FormJanhavi.resources
+C:\Users\HP\Desktop\Mini Project 2\obj\Debug\Mini_Project_2.FormStudentReset.resources
+C:\Users\HP\Desktop\Mini Project 2\obj\Debug\Mini_Project_2.FormScorecard.resources
+C:\Users\HP\Desktop\Mini Project 2\obj\Debug\Mini_Project_2.FormTeacherDashboard.resources
+C:\Users\HP\Desktop\Mini Project 2\obj\Debug\Mini_Project_2.FormTeacherReset.resources
+C:\Users\HP\Desktop\Mini Project 2\obj\Debug\Mini_Project_2.FormUlpa.resources
+C:\Users\HP\Desktop\Mini Project 2\obj\Debug\Mini_Project_2.FormEnterMarksDM.resources
+C:\Users\HP\Desktop\Mini Project 2\obj\Debug\Mini_Project_2.FormEnterMarksECO.resources
+C:\Users\HP\Desktop\Mini Project 2\obj\Debug\Mini_Project_2.FormEnterMarksFLAT.resources
+C:\Users\HP\Desktop\Mini Project 2\obj\Debug\Mini_Project_2.FormEnterMarksMADF.resources
+C:\Users\HP\Desktop\Mini Project 2\obj\Debug\Mini_Project_2.FormEnterMarksMPMC.resources
+C:\Users\HP\Desktop\Mini Project 2\obj\Debug\Mini_Project_2.FormEnterMarksOOSE.resources
+C:\Users\HP\Desktop\Mini Project 2\obj\Debug\Mini_Project_2.FormUploadResults.resources
+C:\Users\HP\Desktop\Mini Project 2\obj\Debug\Mini_Project_2.FormUserpage.resources
+C:\Users\HP\Desktop\Mini Project 2\obj\Debug\Mini_Project_2.FormVivek.resources
+C:\Users\HP\Desktop\Mini Project 2\obj\Debug\Mini_Project_2.Properties.Resources.resources
+C:\Users\HP\Desktop\Mini Project 2\obj\Debug\Mini Project 2.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\Mini Project 2\obj\Debug\Mini_Project_2.FormDescription.resources
+C:\Users\HP\Desktop\Mini Project 2\obj\Debug\Mini_Project_2.FormStudentForgot.resources
+C:\Users\HP\Desktop\Mini Project 2\obj\Debug\Mini_Project_2.FormStudentLogin.resources
+C:\Users\HP\Desktop\Mini Project 2\obj\Debug\Mini_Project_2.FormTeacherLogin.resources
+C:\Users\HP\Desktop\Mini Project 2\obj\Debug\Mini_Project_2.FormTeacherForgot.resources
