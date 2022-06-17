@@ -1,0 +1,423 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D492D584-8BF4-42E2-8435-286294CBC54D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Mini_Project_2</RootNamespace>
+    <AssemblyName>Mini Project 2</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormDescription.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDescription.Designer.cs">
+      <DependentUpon>FormDescription.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTeacherForgot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTeacherForgot.Designer.cs">
+      <DependentUpon>FormTeacherForgot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Global.cs" />
+    <Compile Include="FormAmey.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAmey.Designer.cs">
+      <DependentUpon>FormAmey.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAmrita.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAmrita.Designer.cs">
+      <DependentUpon>FormAmrita.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAnkit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAnkit.Designer.cs">
+      <DependentUpon>FormAnkit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBooks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBooks.designer.cs">
+      <DependentUpon>FormBooks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCalcTotalPercentage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCalcTotalPercentage.Designer.cs">
+      <DependentUpon>FormCalcTotalPercentage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBookECO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBookECO.designer.cs">
+      <DependentUpon>FormBookECO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormStudentForgot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormStudentForgot.designer.cs">
+      <DependentUpon>FormStudentForgot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBookFLAT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBookFLAT.designer.cs">
+      <DependentUpon>FormBookFLAT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBookMADF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBookMADF.designer.cs">
+      <DependentUpon>FormBookMADF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBookDM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBookDM.designer.cs">
+      <DependentUpon>FormBookDM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBookMPMC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBookMPMC.designer.cs">
+      <DependentUpon>FormBookMPMC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBookOOSE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBookOOSE.designer.cs">
+      <DependentUpon>FormBookOOSE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormProgressReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormProgressReport.Designer.cs">
+      <DependentUpon>FormProgressReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormStart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormStart.Designer.cs">
+      <DependentUpon>FormStart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormStudentDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormStudentDashboard.Designer.cs">
+      <DependentUpon>FormStudentDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormJanhavi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormJanhavi.Designer.cs">
+      <DependentUpon>FormJanhavi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormStudentLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormStudentLogin.Designer.cs">
+      <DependentUpon>FormStudentLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTeacherLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTeacherLogin.Designer.cs">
+      <DependentUpon>FormTeacherLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormStudentReset.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormStudentReset.Designer.cs">
+      <DependentUpon>FormStudentReset.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormScorecard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormScorecard.Designer.cs">
+      <DependentUpon>FormScorecard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTeacherDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTeacherDashboard.Designer.cs">
+      <DependentUpon>FormTeacherDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTeacherReset.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTeacherReset.Designer.cs">
+      <DependentUpon>FormTeacherReset.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUlpa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUlpa.Designer.cs">
+      <DependentUpon>FormUlpa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEnterMarksDM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEnterMarksDM.Designer.cs">
+      <DependentUpon>FormEnterMarksDM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEnterMarksECO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEnterMarksECO.Designer.cs">
+      <DependentUpon>FormEnterMarksECO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEnterMarksFLAT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEnterMarksFLAT.Designer.cs">
+      <DependentUpon>FormEnterMarksFLAT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEnterMarksMADF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEnterMarksMADF.Designer.cs">
+      <DependentUpon>FormEnterMarksMADF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEnterMarksMPMC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEnterMarksMPMC.Designer.cs">
+      <DependentUpon>FormEnterMarksMPMC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEnterMarksOOSE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEnterMarksOOSE.Designer.cs">
+      <DependentUpon>FormEnterMarksOOSE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUploadResults.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUploadResults.designer.cs">
+      <DependentUpon>FormUploadResults.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUserpage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUserpage.Designer.cs">
+      <DependentUpon>FormUserpage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormVivek.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormVivek.Designer.cs">
+      <DependentUpon>FormVivek.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormAmey.resx">
+      <DependentUpon>FormAmey.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAmrita.resx">
+      <DependentUpon>FormAmrita.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAnkit.resx">
+      <DependentUpon>FormAnkit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBooks.resx">
+      <DependentUpon>FormBooks.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCalcTotalPercentage.resx">
+      <DependentUpon>FormCalcTotalPercentage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBookECO.resx">
+      <DependentUpon>FormBookECO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDescription.resx">
+      <DependentUpon>FormDescription.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormStudentForgot.resx">
+      <DependentUpon>FormStudentForgot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBookFLAT.resx">
+      <DependentUpon>FormBookFLAT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBookMADF.resx">
+      <DependentUpon>FormBookMADF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBookDM.resx">
+      <DependentUpon>FormBookDM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBookMPMC.resx">
+      <DependentUpon>FormBookMPMC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBookOOSE.resx">
+      <DependentUpon>FormBookOOSE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormProgressReport.resx">
+      <DependentUpon>FormProgressReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormStart.resx">
+      <DependentUpon>FormStart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormStudentDashboard.resx">
+      <DependentUpon>FormStudentDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormJanhavi.resx">
+      <DependentUpon>FormJanhavi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormStudentLogin.resx">
+      <DependentUpon>FormStudentLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTeacherLogin.resx">
+      <DependentUpon>FormTeacherLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormStudentReset.resx">
+      <DependentUpon>FormStudentReset.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormScorecard.resx">
+      <DependentUpon>FormScorecard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTeacherDashboard.resx">
+      <DependentUpon>FormTeacherDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTeacherForgot.resx">
+      <DependentUpon>FormTeacherForgot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTeacherReset.resx">
+      <DependentUpon>FormTeacherReset.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUlpa.resx">
+      <DependentUpon>FormUlpa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEnterMarksDM.resx">
+      <DependentUpon>FormEnterMarksDM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEnterMarksECO.resx">
+      <DependentUpon>FormEnterMarksECO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEnterMarksFLAT.resx">
+      <DependentUpon>FormEnterMarksFLAT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEnterMarksMADF.resx">
+      <DependentUpon>FormEnterMarksMADF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEnterMarksMPMC.resx">
+      <DependentUpon>FormEnterMarksMPMC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEnterMarksOOSE.resx">
+      <DependentUpon>FormEnterMarksOOSE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUploadResults.resx">
+      <DependentUpon>FormUploadResults.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUserpage.resx">
+      <DependentUpon>FormUserpage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormVivek.resx">
+      <DependentUpon>FormVivek.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\don bosco.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pass.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>4</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>6</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
